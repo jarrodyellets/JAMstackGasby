@@ -1,1 +1,1 @@
-# JAMstack started app built with Gatsby.js
+# JAMstack starter app built with Gatsby.js
